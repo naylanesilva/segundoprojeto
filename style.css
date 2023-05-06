@@ -1,0 +1,13 @@
+body{ background-color:#737F87 ;}
+header, main, footer{
+    /* largura das tags */
+    width: 1000px; 
+
+  /*  cor de fundo */
+  background-color:#8997A1 ;
+/* mudar cor da fonte */
+color:#E2E9EE ; 
+margin: auto;
+} 
+iframe{ width:500px ;}
+img{ width: 500px;}
